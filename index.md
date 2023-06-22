@@ -108,7 +108,7 @@ View code on Github
 
 ---
 
-## Skills-based projects
+### Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
 - [Working in the cloud: Using data stored in AWS S3 buckets](#)
