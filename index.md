@@ -6,7 +6,7 @@
 
 In this research project we find that an interaction between selectivity and the average activity of the neuron better predicts ablation performance deficits for groups of neurons in AlexNet, VGG16, MobileNetV2, and ResNet101.
 
-<img src="images/mobility.png?raw=true" />
+<img src="images/ablation.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
 
