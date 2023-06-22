@@ -1,0 +1,17 @@
+email:
+  id: 'rahul.mohankumar@colorado.edu'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+linkedin:
+  id: 'rahul66'
+  href: 'https://linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+
+github:
+  id: 'rahulkumarm'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
