@@ -10,17 +10,34 @@ In this research project we find that an interaction between selectivity and the
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
 
-[View code on Github](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View Paper](https://arxiv.org/abs/2211.04367) | [View code on Github](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ---
 
-### Deep NLP for hate speech detection
+### SemEval-2022 Task 4: Patronizing and Condescending Language Detection
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+This project is my attempt on Task 4 at SemEval-2022, which was focused on detecting Patronizing and Condescending Language (PCL) towards vulnerable communities. In this project, I built a BERT sequence classifier and used PyTorch to fine-tune it.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+
+---
+
+### Evaluate news articles that cover multiple perspectives of a topic
+
+
+
+
+---
+
+### PyTorch Code to generate layer wise unit activations (Ex: Fairface dataset)
+
+---
+
+### End to End speech synthesis system for Tamil
+
+[View Code on Github](https://github.com/rahulkumarm/Tamil-end-to-end-speech-synthesis)
 
 ---
 
