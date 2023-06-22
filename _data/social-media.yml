@@ -2,16 +2,16 @@ email:
   id: 'rahul.mohankumar@colorado.edu'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fas fa-envelope fa-lg'
+  fa-icon: 'fas fa-envelope'
 
 linkedin:
   id: 'rahul66'
   href: 'https://linkedin.com/in/'
   title: 'LinkedIn'
-  fa-icon: 'fas fa-linkedin fa-lg'
+  fa-icon: 'fas fa-linkedin'
 
 github:
   id: 'rahulkumarm'
   href: 'https://github.com/'
   title: 'GitHub'
-  fa-icon: 'fas fa-github fa-lg'
+  fa-icon: 'fas fa-github'
