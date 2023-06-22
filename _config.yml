@@ -13,7 +13,8 @@ google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 colors:
   crimson: '#900C3F'
 
-social-network-links:
-  email: "rahul.mohankumar@colorado.edu"
-  facebook: deanattali
-  github: daattali
+bootstrap:
+  social-network-links:
+    # email: "rahul.mohankumar@colorado.edu"
+    facebook: deanattali
+    github: daattali
