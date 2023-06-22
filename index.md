@@ -1,6 +1,16 @@
-## Selected projects in data science, machine learning and NLP
+## Selected Projects
 
 ---
+
+### Falsifying the Causal Relevance of Linear Decoding Methods
+
+In this research project we find that an interaction between selectivity and the average activity of the neuron better predicts ablation performance deficits for groups of neurons in AlexNet, VGG16, MobileNetV2, and ResNet101.
+
+<img src="images/mobility.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
+
+[View code on Github](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ### Deep NLP for hate speech detection
 
