@@ -14,7 +14,7 @@ colors:
   crimson: '#900C3F'
 
 bootstrap:
-  socia_links:
+  social_links:
     # email: "rahul.mohankumar@colorado.edu"
     linkedin: 'https://linkedin.com/in/rahul66'
     github: 'https://github.com/rahulkumarm'
