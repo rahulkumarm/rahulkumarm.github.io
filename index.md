@@ -26,8 +26,11 @@ This project is my attempt on Task 4 at SemEval-2022, which was focused on detec
 
 ### Evaluate news articles that cover multiple perspectives of a topic
 
+<img src="images/news1.png?raw=true" />
 
+<img src="images/news2.png?raw=true" />
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 ---
 
@@ -137,7 +140,7 @@ View code on Colab -->
 
 <!-- ## 👋 Welcome to my portfolio
 
-Hello! My name is Matt, and I set up this page to showcase some of the data science projects I've been working on.
+Hey there! My name is Rahul, and I set up this page to showcase some of the data science projects I've been working on.
 
 At age 18, while working as a cold caller in a telesales team at Ovo Energy, I built my first data product: a recommendation engine which predicted customers' propensity to buy. The tool helped me double my sales rate and, after I'd persuaded senior managers to take it into production, boosted our whole team's sales by 10%. 
 
