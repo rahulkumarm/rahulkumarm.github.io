@@ -17,7 +17,7 @@ github:
   fa-icon: 'fa-brands fa-square-github fa-2x'
 
 resume:
-  id: 'resume.pdf'
+  id: 'RahulKumarResume.pdf'
   href: 'https://rahulkumarm.github.io/assets/'
   title: 'Resume'
   fa-icon: 'fa-solid fa-file-lines fa-2x'
