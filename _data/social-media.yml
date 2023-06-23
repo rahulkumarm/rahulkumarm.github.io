@@ -2,7 +2,7 @@ email:
   id: 'rahul.mohankumar@colorado.edu'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fab fa-envelope fa-2x'
+  fa-icon: 'fab fa-envelope fa-2x fa-rotate-90'
 
 linkedin:
   id: 'rahul66'
