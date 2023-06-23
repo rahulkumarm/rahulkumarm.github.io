@@ -2,9 +2,11 @@ title: Rahul Kumar # your name (or website title) here
 logo: "/images/img.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Data Scientist with 4+ years of commercial experience in analytics, strategy and sales and a master's degree in Data Science from Oxford University. Previously at Vodafone, VIMA Group (management consulting), Ovo Energy, HSBC.
+  Welcome to Rahul's portfolio.
+  <br>
+  I'm a Data Scientist/ Data Analyst, currently working as a researcher in the Social Neuroscience and Games (SNaG) Lab at the University of Colorado Boulder.
   <br><br>
-  Ranked in top 10% of undergraduate cohort at Cambridge University.
+  Skilled in machine learning, neural network ablation and statistical analysis with an extensive background in analyzing large datasets. 
   <br><br>
   
 theme: jekyll-theme-minimal
