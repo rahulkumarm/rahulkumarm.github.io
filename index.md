@@ -18,6 +18,11 @@ In this research project we find that an interaction between selectivity and the
 
 This project is my attempt on Task 4 at SemEval-2022, which was focused on detecting Patronizing and Condescending Language (PCL) towards vulnerable communities. In this project, I built a BERT sequence classifier and used PyTorch to fine-tune it.
 
+<p float="left">
+ <img src="images/plc1.png?raw=true" width="49%">
+ <img src="images/plc2.png?raw=true" width="49%">
+</p>
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#) [![](https://img.shields.io/badge/HuggingFace-white?logo=huggingface)](#)
 
 [Github](https://github.com/rahulkumarm/SemEval_2022-PCL_Detection)
@@ -50,7 +55,6 @@ This project makes use of PyTorch to generate activations for all the units of a
 
 Tamil Speech Synthesis system based on Google's Tacotron model and keithito's [tacotron](https://github.com/keithito/tacotron) implementation. 
 
-<img src="images/pcl.png?raw=true" />
 
 [Github](https://github.com/rahulkumarm/Tamil-end-to-end-speech-synthesis)
 
