@@ -19,10 +19,10 @@ In this research project we find that an interaction between selectivity and the
 This research project explores the roles of Activational Selectivity and Magnitude in neurons to classify them as functionally specific or not. The neural network used is a 5 layer CNN trained on the mnist dataset.
 
 <p float="left">
- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="20"/>
- <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="20"/>
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" height="20"/>
 </p>
 
 
