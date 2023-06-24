@@ -14,6 +14,15 @@ In this research project we find that an interaction between selectivity and the
 
 ---
 
+### *Activational Selectivity* vs *Magnitude* to identify functionally specific neurons in Neural Networks.
+
+This research project explores the roles of Activational Selectivity and Magnitude in neurons to classify them as functionally specific or not. The neural network used is a 5 layer CNN trained on the mnist dataset.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+---
+
 ### SemEval-2022 Task 4: Patronizing and Condescending Language Detection
 
 This project is my attempt on Task 4 at SemEval-2022, which was focused on detecting Patronizing and Condescending Language (PCL) towards vulnerable communities. In this project, I built a BERT sequence classifier and used PyTorch to fine-tune it.
