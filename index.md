@@ -25,7 +25,7 @@ A central goal of social neuroscience is to identify neural processes that suppo
 
 <p float="left">
  <img src="images/pc3.png?raw=true" height="270"/>
- <img src="images/p2.png?raw=true" height="270/>
+ <img src="images/p2.png?raw=true" height="270"/>
 </p>
   
 <br><br>
