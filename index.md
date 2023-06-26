@@ -19,28 +19,27 @@ In this research project we find that an interaction between selectivity and the
 
 ---
 
-### *Activational Selectivity* vs *Magnitude* to identify functionally specific neurons in Neural Networks.
+### How are animate and inanimate categories differentiated in a pre-trained artificial neural network?
 
-This research project explores the roles of Activational Selectivity and Magnitude in neurons to classify them as functionally specific or not. The neural network used is a 5 layer CNN trained on the mnist dataset.
+A central goal of social neuroscience is to identify neural processes that support social interaction. Numerous analytical methods have been used to isolate regions of the brain sensitive to social and nonsocial images. However, confirming the validity of these findings requires studying the effects of lesions on the identified brain regions, a goal not possible in human participants and not well matched to animal behavior. This project tests the validity of several analytical methods in identifying groups of neurons central to a social function by studying the effects of specific lesions in an ANN.
+
+<img src="images/p1.png?raw=true"/>
+<img src="images/p2.png?raw=true"/>
 
 <p float="left">
  <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
  <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" height="20"/>
+ <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?&logo=scipy&logoColor=%white" height="20"/>
+ 
 </p>
-
 
 ---
 
-### SemEval-2022 Task 4: Patronizing and Condescending Language Detection
+### *Activational Selectivity* vs *Magnitude* to identify functionally specific neurons in Neural Networks.
 
-This project is my attempt on Task 4 at SemEval-2022, which was focused on detecting Patronizing and Condescending Language (PCL) towards vulnerable communities. In this project, I built a BERT sequence classifier and used PyTorch to fine-tune it.
-
-<p float="left">
- <img src="images/plc1.png?raw=true" width="49%">
- <img src="images/plc2.png?raw=true" width="49%">
-</p>
+Identifying regions of the brain associated with specific cognitive functions (e.g. visual processing) can be challenging. This research project explores the roles of Activational Selectivity and Magnitude in neurons to classify them as functionally specific or not. The neural network used is a 5 layer CNN trained on the mnist dataset.
 
 <p float="left">
  <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
@@ -49,8 +48,18 @@ This project is my attempt on Task 4 at SemEval-2022, which was focused on detec
  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" height="20"/>
 </p>
 
+---
 
-[Github](https://github.com/rahulkumarm/SemEval_2022-PCL_Detection)
+### Generate unit activations (Ex: Fairface dataset)
+
+This project makes use of PyTorch to generate activations for all the units of any layer of a deep learning model. An example is shown for the Fairface model where the generated activations are stored in a csv file.
+
+<p float="left">
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white" height="20"/>
+</p>
 
 ---
 
@@ -73,16 +82,24 @@ Github
 
 ---
 
-### Generate unit activations (Ex: Fairface dataset)
+### SemEval-2022 Task 4: Patronizing and Condescending Language Detection
 
-This project makes use of PyTorch to generate activations for all the units of any layer of a deep learning model. An example is shown for the Fairface model where the generated activations are stored in a csv file.
+This project is my attempt on Task 4 at SemEval-2022, which was focused on detecting Patronizing and Condescending Language (PCL) towards vulnerable communities. In this project, I built a BERT sequence classifier and used PyTorch to fine-tune it.
+
+<p float="left">
+ <img src="images/plc1.png?raw=true" width="49%">
+ <img src="images/plc2.png?raw=true" width="49%">
+</p>
 
 <p float="left">
  <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
  <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" height="20"/>
 </p>
+
+
+[Github](https://github.com/rahulkumarm/SemEval_2022-PCL_Detection)
 
 ---
 
