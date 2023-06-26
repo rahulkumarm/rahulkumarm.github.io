@@ -8,7 +8,12 @@ In this research project we find that an interaction between selectivity and the
 
 <img src="images/ablation.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
+<p float="left">
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white" height="20"/>
+</p>
 
 [Paper](https://arxiv.org/abs/2211.04367) &#124; [Github](https://github.com/rahulkumarm/Cognitive-Parcellation)
 
@@ -37,7 +42,13 @@ This project is my attempt on Task 4 at SemEval-2022, which was focused on detec
  <img src="images/plc2.png?raw=true" width="49%">
 </p>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#) [![](https://img.shields.io/badge/HuggingFace-white?logo=huggingface)](#)
+<p float="left">
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" height="20"/>
+</p>
+
 
 [Github](https://github.com/rahulkumarm/SemEval_2022-PCL_Detection)
 
@@ -51,7 +62,12 @@ As an important and challenging problem, effective knowledge discovery from news
 
 <img src="images/news2.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
+<p float="left">
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20"/>
+</p>
+
 
 Github
 
@@ -61,7 +77,12 @@ Github
 
 This project makes use of PyTorch to generate activations for all the units of any layer of a deep learning model. An example is shown for the Fairface model where the generated activations are stored in a csv file.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
+<p float="left">
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white" height="20"/>
+</p>
 
 ---
 
