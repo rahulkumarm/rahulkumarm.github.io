@@ -23,8 +23,12 @@ In this research project we find that an interaction between selectivity and the
 
 A central goal of social neuroscience is to identify neural processes that support social interaction. Numerous analytical methods have been used to isolate regions of the brain sensitive to social and nonsocial images. However, confirming the validity of these findings requires studying the effects of lesions on the identified brain regions, a goal not possible in human participants and not well matched to animal behavior. This project tests the validity of several analytical methods in identifying groups of neurons central to a social function by studying the effects of specific lesions in an ANN.
 
-<img src="images/p1.png?raw=true"/>
-<img src="images/p2.png?raw=true"/>
+<p float="left">
+ <img src="images/pc3.png?raw=true" height="270"/>
+ <img src="images/p2.png?raw=true" height="270/>
+</p>
+  
+<br><br>
 
 <p float="left">
  <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
