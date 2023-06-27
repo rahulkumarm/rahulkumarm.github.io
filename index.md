@@ -23,8 +23,8 @@ In this research project we find that an interaction between selectivity and the
 
 A central goal of social neuroscience is to identify neural processes that support social interaction. Numerous analytical methods have been used to isolate regions of the brain sensitive to social and nonsocial images. However, confirming the validity of these findings requires studying the effects of lesions on the identified brain regions, a goal not possible in human participants and not well matched to animal behavior. This project tests the validity of several analytical methods in identifying groups of neurons central to a social function by studying the effects of specific lesions in an ANN.
 
-<img src="images/p2.png?raw=true" height="270"/>
-<img src="images/pc3.png?raw=true" height="270"/>
+<img src="images/p2.png?raw=true"/>
+<img src="images/pc3.png?raw=true"/>
 
 <p float="left">
  <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
@@ -52,7 +52,7 @@ Identifying regions of the brain associated with specific cognitive functions (e
 
 ### Generate unit activations (Ex: Fairface dataset)
 
-This project makes use of PyTorch to generate activations for all the units of any layer of a deep learning model. An example is shown for the Fairface model where the generated activations are stored in a csv file.
+This project makes use of PyTorch to generate activations for all the units of any layer in a deep learning model. An example is shown for the Fairface model where the generated activations are stored in a csv file.
 
 <p float="left">
  <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
@@ -70,7 +70,6 @@ This project makes use of PyTorch to generate activations for all the units of a
 As an important and challenging problem, effective knowledge discovery from news papers to understand the evolution of a particular event or to find a similar event that happened in the past plays a critical role in opinion and trend analysis. This project aims to improve topic tracking and group similar topics to compare the topic evolution among the groups.
 
 <img src="images/news1.png?raw=true" />
-
 <img src="images/news2.png?raw=true" />
 
 <p float="left">
