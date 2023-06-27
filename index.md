@@ -35,18 +35,22 @@ A central goal of social neuroscience is to identify neural processes that suppo
  
 </p>
 
+[Github](https://github.com/rahulkumarm/Cognitive-Parcellation/blob/master/code/experiments/A%20novel%20approach%20to%20study%20artificial%20brain%20lesions.ipynb)
+
 ---
 
-### *Activational Selectivity* vs *Magnitude* to identify functionally specific neurons in Neural Networks.
+### Neural Network Ablation.
 
-Identifying regions of the brain associated with specific cognitive functions (e.g. visual processing) can be challenging. This research project explores the roles of Activational Selectivity and Magnitude in neurons to classify them as functionally specific or not. The neural network used is a 5 layer CNN trained on the mnist dataset.
+Identifying regions of the brain associated with specific cognitive functions (e.g. visual processing) can be challenging. This project provides modules for ablating pre-trained neural network models using PyTorch.
 
 <p float="left">
  <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
  <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" height="20"/>
+ <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white" height="20"/>
 </p>
+
+[Github](https://github.com/rahulkumarm/Neural-Network-Ablation)
 
 ---
 
