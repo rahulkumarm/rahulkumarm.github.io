@@ -65,6 +65,8 @@ This project makes use of PyTorch to generate activations for all the units of a
  <img src="https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white" height="20"/>
 </p>
 
+[Github](https://github.com/rahulkumarm/Fairface-Activations)
+
 ---
 ## Personal Projects
 ---
