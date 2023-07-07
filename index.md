@@ -6,13 +6,13 @@
 
 In this research project we find that an interaction between selectivity and the average activity of the neuron better predicts ablation performance deficits for groups of neurons in AlexNet, VGG16, MobileNetV2, and ResNet101.
 
-<img src="images/ablation.png?raw=true" />
+<img src="images/ablation.png?raw=true" alt=""/>
 
 <p float="left">
- <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
- <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white" height="20" alt=""/>
 </p>
 
 [Paper](https://arxiv.org/abs/2211.04367) &#124; [Github](https://github.com/rahulkumarm/Cognitive-Parcellation)
@@ -23,15 +23,15 @@ In this research project we find that an interaction between selectivity and the
 
 A central goal of social neuroscience is to identify neural processes that support social interaction. Numerous analytical methods have been used to isolate regions of the brain sensitive to social and nonsocial images. However, confirming the validity of these findings requires studying the effects of lesions on the identified brain regions, a goal not possible in human participants and not well matched to animal behavior. This project tests the validity of several analytical methods in identifying groups of neurons central to a social function by studying the effects of specific lesions in an ANN.
 
-<img src="images/p2.png?raw=true"/>
-<img src="images/pc3.png?raw=true"/>
+<img src="images/p2.png?raw=true" alt=""/>
+<img src="images/pc3.png?raw=true" alt=""/>
 
 <p float="left">
- <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
- <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?&logo=scipy&logoColor=%white" height="20"/>
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?&logo=scipy&logoColor=%white" height="20" alt=""/>
  
 </p>
 
@@ -44,10 +44,10 @@ A central goal of social neuroscience is to identify neural processes that suppo
 Identifying regions of the brain associated with specific cognitive functions (e.g. visual processing) can be challenging. This project provides modules for ablating pre-trained neural network models using PyTorch.
 
 <p float="left">
- <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
- <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white" height="20" alt=""/>
 </p>
 
 [Github](https://github.com/rahulkumarm/Neural-Network-Ablation)
@@ -59,10 +59,10 @@ Identifying regions of the brain associated with specific cognitive functions (e
 This project makes use of PyTorch to generate activations for all the units of any layer in a deep learning model. An example is shown for the Fairface model where the generated activations are stored in a csv file.
 
 <p float="left">
- <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
- <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white" height="20" alt=""/>
 </p>
 
 [Github](https://github.com/rahulkumarm/Fairface-Activations)
@@ -75,13 +75,13 @@ This project makes use of PyTorch to generate activations for all the units of a
 
 As an important and challenging problem, effective knowledge discovery from news papers to understand the evolution of a particular event or to find a similar event that happened in the past plays a critical role in opinion and trend analysis. This project aims to improve topic tracking and group similar topics to compare the topic evolution among the groups.
 
-<img src="images/news1.png?raw=true" />
-<img src="images/news2.png?raw=true" />
+<img src="images/news1.png?raw=true" alt=""/>
+<img src="images/news2.png?raw=true" alt=""/>
 
 <p float="left">
- <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
- <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20" alt=""/>
 </p>
 
 
@@ -94,15 +94,15 @@ Github
 This project is my attempt on Task 4 at SemEval-2022, which was focused on detecting Patronizing and Condescending Language (PCL) towards vulnerable communities. In this project, I built a BERT sequence classifier and used PyTorch to fine-tune it.
 
 <p float="left">
- <img src="images/plc1.png?raw=true" width="49%">
- <img src="images/plc2.png?raw=true" width="49%">
+ <img src="images/plc1.png?raw=true" width="49%" alt="">
+ <img src="images/plc2.png?raw=true" width="49%" alt="">
 </p>
 
 <p float="left">
- <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20"/>
- <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" height="20"/>
+ <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="20" alt=""/>
+ <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" height="20" alt=""/>
 </p>
 
 
