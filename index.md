@@ -4,7 +4,7 @@
 
 ### Falsifying the Causal Relevance of Linear Decoding Methods (Ongoing)
 
-In this research project we find that an interaction between selectivity and the average activity of the neuron better predicts ablation performance deficits for groups of neurons in AlexNet, VGG16, MobileNetV2, and ResNet101.
+In this research project it has been discovered that the interaction between selectivity and the average activity of neurons provides a more accurate prediction of ablation performance deficits in groups of neurons across AlexNet, VGG16, MobileNetV2, and ResNet101.
 
 <img src="images/ablation.png?raw=true" alt=""/>
 
@@ -21,7 +21,7 @@ In this research project we find that an interaction between selectivity and the
 
 ### How are animate and inanimate categories differentiated in a pre-trained artificial neural network?
 
-A central goal of social neuroscience is to identify neural processes that support social interaction. Numerous analytical methods have been used to isolate regions of the brain sensitive to social and nonsocial images. However, confirming the validity of these findings requires studying the effects of lesions on the identified brain regions, a goal not possible in human participants and not well matched to animal behavior. This project tests the validity of several analytical methods in identifying groups of neurons central to a social function by studying the effects of specific lesions in an ANN.
+The primary objective of social neuroscience is to uncover neural mechanisms that underpin social interactions. Researchers have employed various analytical techniques to pinpoint brain regions responsive to social and nonsocial stimuli. Nonetheless, validating these findings necessitates investigating the impact of lesions on these identified brain areas. Unfortunately, such studies are impractical with human participants and not ideally suited to animal behavior. Therefore, this project addresses the validation of several analytical methods in identifying groups of neurons crucial to social functions by examining the effects of targeted lesions in an artificial neural network (ANN).
 
 <img src="images/p2.png?raw=true" alt=""/>
 <img src="images/pc3.png?raw=true" alt=""/>
@@ -41,7 +41,7 @@ A central goal of social neuroscience is to identify neural processes that suppo
 
 ### Neural Network Ablation.
 
-Identifying regions of the brain associated with specific cognitive functions (e.g. visual processing) can be challenging. This project provides modules for ablating pre-trained neural network models using PyTorch.
+Detecting brain regions associated with particular cognitive functions, such as visual processing, can pose challenges. To address this, the project introduces modules designed for ablating pre-trained neural network models using PyTorch.
 
 <p float="left">
  <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20" alt=""/>
@@ -56,7 +56,7 @@ Identifying regions of the brain associated with specific cognitive functions (e
 
 ### Generate unit activations (Ex: Fairface dataset)
 
-This project makes use of PyTorch to generate activations for all the units of any layer in a deep learning model. An example is shown for the Fairface model where the generated activations are stored in a csv file.
+In this project, PyTorch is utilized to generate activations for all units within any layer of a deep learning model. As an illustration, the Fairface model is used, and the resulting activations are saved in a CSV file for further analysis.
 
 <p float="left">
  <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" height="20" alt=""/>
@@ -73,7 +73,7 @@ This project makes use of PyTorch to generate activations for all the units of a
 
 ### Evaluate news articles that cover multiple perspectives of a topic
 
-As an important and challenging problem, effective knowledge discovery from news papers to understand the evolution of a particular event or to find a similar event that happened in the past plays a critical role in opinion and trend analysis. This project aims to improve topic tracking and group similar topics to compare the topic evolution among the groups.
+Effective knowledge discovery from newspapers, to comprehend the progression of specific events or identify analogous occurrences from the past, presents a significant and formidable challenge. This project focuses on enhancing topic tracking and clustering similar subjects to facilitate a comparative analysis of topic evolution among various groups. The outcome of this endeavor holds vital importance in opinion and trend analysis.
 
 <img src="images/news1.png?raw=true" alt=""/>
 <img src="images/news2.png?raw=true" alt=""/>
@@ -112,8 +112,7 @@ This project is my attempt on Task 4 at SemEval-2022, which was focused on detec
 
 ### End to End speech synthesis system for Tamil
 
-Tamil Speech Synthesis system based on Google's Tacotron model and keithito's [tacotron](https://github.com/keithito/tacotron) implementation. 
-
+The Tamil Speech Synthesis system is built upon Google's Tacotron model, utilizing keithito's implementation available [here](https://github.com/keithito/tacotron).
 
 [Github](https://github.com/rahulkumarm/Tamil-end-to-end-speech-synthesis)
 
